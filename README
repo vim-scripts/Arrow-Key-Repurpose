@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4900
+
+A plugin-ification of  the older version of vimtip #1066, with a couple modifications and added documentation.
+
+Many consider it a best practice not to use the keyboards arrow keys for movement. New users are usually encouraged to use hjkl instead. vimtip #1066 recommends re-mapping the arrow keys functionality rather than letting them go to waste.
+
+This is a plugin implementation of that tip, with modifications from around the web and personal additions, along with documentation.
